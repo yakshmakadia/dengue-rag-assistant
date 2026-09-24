@@ -1,0 +1,28 @@
+DENGUE CLINICAL RECORD
+
+Record Number: 795
+
+DEMOGRAPHICS
+Age: 60.0 years
+Sex: Male
+
+DENGUE TESTING
+Dengue NS1: Positive
+
+LABORATORY RESULTS
+Platelet Count (PLT): 17.85
+White Blood Cell Count (WBC): 5.94
+Hematocrit (HCT): 37.9
+Red Blood Cell Count (RBC): 4.2942
+Lymphocytes: 27.54%
+Neutrophils: 69.68%
+ALT: Not available
+AST: Not available
+
+SOURCE
+Comprehensive Dengue Hematology and Clinical Dataset from Bangladesh.
+
+DATA USAGE NOTICE
+This record comes from a publicly released research dataset.
+It is not a live medical record and must not be used for diagnosis,
+treatment, or medication decisions.
