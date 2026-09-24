@@ -13,17 +13,8 @@ Runs completely **100% locally and offline** using **FAISS vector database**, **
 
 ---
 
-## 📑 Table of Contents
-1. [Architecture Overview](#-architecture-overview)
-2. [Key Features](#-key-features)
-3. [Project Structure](#-project-structure)
-4. [Installation & Setup](#-installation--setup)
-5. [Ollama Local LLM Setup](#-ollama-local-llm-setup)
-6. [Running the Application](#-running-the-application)
-7. [Privacy Layer (PII Redaction)](#-privacy-layer-pii-redaction)
-8. [Evidence Display & Anti-Hallucination](#-evidence-display--anti-hallucination)
-9. [Sample Inquiries & Grounded Answers](#-sample-inquiries--grounded-answers)
-10. [Sample Screenshots Description](#-sample-screenshots-description)
+## Streamlit Link
+https://dengue-rag-assistant-dwoxgnfy6ewh8dgzfrkr4s.streamlit.app/
 
 ---
 
